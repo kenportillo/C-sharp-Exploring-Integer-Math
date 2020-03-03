@@ -1,0 +1,11 @@
+/Users/Hi/Development/C#/Exploring-Integer-Math/bin/Debug/netcoreapp3.1/Exploring-Integer-Math
+/Users/Hi/Development/C#/Exploring-Integer-Math/bin/Debug/netcoreapp3.1/Exploring-Integer-Math.deps.json
+/Users/Hi/Development/C#/Exploring-Integer-Math/bin/Debug/netcoreapp3.1/Exploring-Integer-Math.runtimeconfig.json
+/Users/Hi/Development/C#/Exploring-Integer-Math/bin/Debug/netcoreapp3.1/Exploring-Integer-Math.runtimeconfig.dev.json
+/Users/Hi/Development/C#/Exploring-Integer-Math/bin/Debug/netcoreapp3.1/Exploring-Integer-Math.dll
+/Users/Hi/Development/C#/Exploring-Integer-Math/bin/Debug/netcoreapp3.1/Exploring-Integer-Math.pdb
+/Users/Hi/Development/C#/Exploring-Integer-Math/obj/Debug/netcoreapp3.1/Exploring-Integer-Math.csprojAssemblyReference.cache
+/Users/Hi/Development/C#/Exploring-Integer-Math/obj/Debug/netcoreapp3.1/Exploring-Integer-Math.AssemblyInfoInputs.cache
+/Users/Hi/Development/C#/Exploring-Integer-Math/obj/Debug/netcoreapp3.1/Exploring-Integer-Math.AssemblyInfo.cs
+/Users/Hi/Development/C#/Exploring-Integer-Math/obj/Debug/netcoreapp3.1/Exploring-Integer-Math.dll
+/Users/Hi/Development/C#/Exploring-Integer-Math/obj/Debug/netcoreapp3.1/Exploring-Integer-Math.pdb
