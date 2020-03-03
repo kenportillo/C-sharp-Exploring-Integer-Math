@@ -27,6 +27,10 @@ namespace Exploring_Integer_Math
             c = a + b - 12 * 17;
             Console.WriteLine(c);
 
+            // different operations
+            int d = (a + b) - 6 * c + (12 * 4) / 3 + 12;
+            Console.WriteLine(d);
+
             // Console.WriteLine("Hello World!");
         }
 
@@ -36,10 +40,18 @@ namespace Exploring_Integer_Math
 
             // The output demonstrates that the multiplication is performed
             // before the addition.
-            int a = 5;
+            // int a = 5;
+            // int b = 4;
+            // int c = 2;
+            // int d = a + b * c;
+            // Console.WriteLine(d);
+
+            // Decimal or Fractional
+
+            int a = 7;
             int b = 4;
-            int c = 2;
-            int d = a + b * c;
+            int c = 3;
+            int d = (a + b) / c;
             Console.WriteLine(d);
 
         }
